@@ -7,7 +7,7 @@ This repository contains the complete graduation project:
 🏫 **Institute**: Information Technology Institute (ITI)  
 🧑‍🏫 **Supervisors**: Dr. Mahmoud Abdelaziz, Eng. Meriham Rizk  
 📅 **Duration**: 2024–2025  
-🌍 **Dataset**: Real LTE KPI data provided by [Company Name]
+🌍 **Dataset**: Real LTE KPI data provided by [Digis Squared]
 
 ---
 
